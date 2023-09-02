@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 0;
+    align-items: center;
+}
+
+h1 {
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+p {
+    padding: 0 15%;
+}
