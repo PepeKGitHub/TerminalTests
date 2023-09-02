@@ -4,11 +4,13 @@ body {
     margin: 0;
     padding: 0;
     align-items: center;
+    background-color: antiquewhite;
 }
 
 h1 {
     font-size: 2rem;
     font-weight: 700;
+    color: sandybrown;
 }
 
 p {
