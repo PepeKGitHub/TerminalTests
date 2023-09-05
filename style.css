@@ -16,3 +16,7 @@ h1 {
 p {
     padding: 0 15%;
 }
+
+footer {
+    background-color: lightgrey;
+}
